@@ -1,5 +1,5 @@
 # Mem0 - The Memory Layer for Personalized AI
-### test 1
+
 ## Overview
 
 Mem0 ("mem-zero") is an intelligent memory layer that enhances AI assistants and agents with persistent, personalized memory capabilities. It enables AI systems to remember user preferences, adapt to individual needs, and continuously learn over time—making it ideal for customer support chatbots, AI assistants, and autonomous systems.
